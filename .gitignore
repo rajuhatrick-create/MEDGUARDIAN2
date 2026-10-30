@@ -1,0 +1,6 @@
+node_modules
+.netlify/*
+!.netlify/results.md
+public/downloads/
+__pycache__/
+*.pyc
